@@ -1,0 +1,11 @@
+{
+  "name": "hx",
+  "version": "1.0.0",
+  "description": "my test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'hello world'"
+  },
+  "author": "huaxiao",
+  "license": "ISC"
+}
